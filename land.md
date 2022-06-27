@@ -7,4 +7,5 @@
 3. Reserve the Plots Collection based on totalSupply of  DAO tokens ** python
 
 <h3> Brandon To Do </h3> <br>
-5. safe transfer will act as mint function where member pays gas **js 
+
+4. safe transfer will act as mint function contract.functions.safeTransferFrom(address,DAOtokenID) where member pays gas **js 
