@@ -8,4 +8,4 @@
 
 <h3> Brandon To Do </h3> <br>
 
-4. safe transfer will act as mint function contract.functions.safeTransferFrom(address,DAOtokenID) where member pays gas **js 
+4. safe transfer will act as mint function contract.functions.safeTransferFrom(address,approvedDAOtokenID) where member pays gas **js 
